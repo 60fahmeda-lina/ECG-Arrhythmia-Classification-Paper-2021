@@ -45,7 +45,7 @@ Prerequisites
 -NumPy / Pandas
 
 Installation
-Clone the repository:
+Clone the repository:git@github.com:60fahmeda-lina/ECG-Arrhythmia-Classification-Paper-2021.git
 
 
 
